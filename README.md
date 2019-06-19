@@ -11,4 +11,4 @@ Backtracking algorithm to solve sudoku puzzles of all difficulties.
 # Setup and use
 
 - Download Python and a suitable IDE.
-- Run function test_solver to test it. The function also serves to show how to use the solver.
+- Run function _test_solver()_ to test it. The function also serves to show how to use the solver.
